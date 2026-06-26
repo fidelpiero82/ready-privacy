@@ -62,7 +62,7 @@ When we receive your request, we will permanently delete your account and all as
 
 Please note that certain information, such as purchase or subscription records, may be retained for as long as required by applicable laws, tax regulations, or Google Play billing requirements. Any retained information will only be kept for these legal purposes and will not be used for any other purpose.
 
-If you have any questions about account deletion or your personal data, please contact us at [your email address].
+If you have any questions about account deletion or your personal data, please contact us.
 
 ## Contact
 
