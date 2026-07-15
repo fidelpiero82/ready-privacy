@@ -1,6 +1,6 @@
 # Legal infromaton (Privacy Policy and terms of service)
 
-Last updated: June 2026
+Last updated: July 2026
 
 ## Privacy policy
 Ready? Ready! respects your privacy. This Privacy Policy explains what information we collect, how we use it, and how we protect it.
@@ -69,9 +69,7 @@ If you have any questions about account deletion or your personal data, please c
 
 ## Terms of Service
 
-Welcome to **Where** and **Ready**.
-
-By downloading, installing or using this application, you agree to these Terms of Service.
+By downloading, installing or using applications from Ready? Ready!, you agree to these Terms of Service.
 
 ### Use of the App
 
