@@ -2,6 +2,7 @@
 
 Last updated: June 2026
 
+## Privacy policy
 Ready? Ready! respects your privacy. This Privacy Policy explains what information we collect, how we use it, and how we protect it.
 
 ## Information We Collect
@@ -64,9 +65,62 @@ Please note that certain information, such as purchase or subscription records, 
 
 If you have any questions about account deletion or your personal data, please contact us.
 
-## Contact
 
-Email: readyapp.contact@gmail.com
+
+## Terms of Service
+
+Welcome to **Where** and **Ready**.
+
+By downloading, installing or using this application, you agree to these Terms of Service.
+
+### Use of the App
+
+The application is intended for personal use. You agree to use the app responsibly and in accordance with applicable laws.
+
+### Subscription and Billing
+
+Some features require an active subscription purchased through Google Play.
+
+Subscriptions are billed through Google Play according to the selected subscription plan and renew automatically unless cancelled before the end of the current billing period.
+
+You can manage or cancel your subscription at any time through your Google Play account settings.
+
+Refunds are handled in accordance with Google's refund policies.
+
+### Availability
+
+We strive to keep the application available and functioning properly. However, we cannot guarantee uninterrupted availability or that the service will always be error-free.
+
+Features may be added, modified or removed as part of future updates.
+
+### User Responsibilities
+
+You are responsible for maintaining the security of your device and your account.
+
+You are also responsible for any information or content you create or store within the application.
+
+### Intellectual Property
+
+All software, design, branding, graphics and content within the application remain the property of the developer unless otherwise stated.
+
+You may not copy, redistribute, modify or reverse engineer the application except where permitted by applicable law.
+
+### Limitation of Liability
+
+The application is provided **"as is"** without warranties of any kind.
+
+To the maximum extent permitted by applicable law, the developer shall not be liable for any indirect, incidental or consequential damages arising from the use of the application.
+
+### Changes to These Terms
+
+These Terms of Service may be updated from time to time.
+
+Continued use of the application after updates become effective constitutes acceptance of the revised Terms.
+
+### Contact readyapp.contact@gmail.com
+
+If you have questions regarding these Terms of Service or the Privacy Policy, please contact:
+
 
 ## Changes
 
