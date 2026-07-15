@@ -1,12 +1,12 @@
-# Privacy Policy
+# Legal infromaton (Privacy Policy and terms of service)
 
 Last updated: June 2026
 
-Ready? Ready! ("the App") respects your privacy. This Privacy Policy explains what information we collect, how we use it, and how we protect it.
+Ready? Ready! respects your privacy. This Privacy Policy explains what information we collect, how we use it, and how we protect it.
 
 ## Information We Collect
 
-When using Ready? Ready!, we may collect:
+When using Ready? Readys apps!, we may collect:
 
 - Email address (for authentication and account management)
 - Child profiles you create
